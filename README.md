@@ -1,6 +1,16 @@
 # AngularFirebaseAuth
+[Angular Tutorial](http://www.codewithsrini.com/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+Angular 6 Firebase Authentication with Material Design. Establish an authentication mechanism using Angular Firebase with help of angular fire in your project. Also, make use of Angular Material to build a toolbar and accommodate logged-in user avatar in toolbar with a dropdown to show options.
+
+Please watch the full video lecture in the below URL
+
+## Watch video in the below URL
+[Angular 6 Firebase Authentication with Material Design](https://youtu.be/6TRv1xT3Y-E)
+
+## Tags
+angular 6 firebase authentication, angular 6 firebase, firebase authentication angular, angular 7 firebase authentication, angular, angular firebase authentication tutorial, angular material, tutorial, material guide, codewithsrini, code with srini, angular 7 tutorial, angular 7 material tutorial, angular firebase tutorial, material dropdown menu, google sign-in provider, 
+
 
 ## Development server
 
